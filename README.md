@@ -1,3 +1,6 @@
+---
+[![](https://visitcount.itsvg.in/api?id=EirikJuelsen&icon=2&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 Currently working on C++ in order to get a deeper understanding of code<br>and computer science, and how to utilize this in AI and Machine Learning
 
@@ -14,6 +17,3 @@ Currently working on C++ in order to get a deeper understanding of code<br>and c
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=EirikJuelsen&icon=2&color=0)](https://visitcount.itsvg.in)
